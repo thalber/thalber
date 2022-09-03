@@ -6,6 +6,8 @@ I speak Russian, English, C#, and a little bit of Rust and F#. Modding made me m
 
 My longest standing project so far is [this thing](https://github.com/Rain-World-Modding/BOI). Possibly more complicated one is [this port of an old mod made by someone else](https://github.com/thalber/Remnant) (it is broken as of now :3)
 
+Other than code, i also have some RU<-->EN translations on my track record ([Rain World](https://github.com/thalber/RW-RU) and [Deep Rock Galactic](https://crowdin.com/project/deep-rock-galactic))
+
 <!--
 **thalber/thalber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
