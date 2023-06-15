@@ -9,9 +9,9 @@ My longest standing project so far is [this thing](https://github.com/Rain-World
 Other than code, i also have some RU<-->EN translations on my track record ([Rain World](https://github.com/thalber/RW-RU) and [Deep Rock Galactic](https://crowdin.com/project/deep-rock-galactic))
 
 ## Links
-- <a rel="me" href="https://tech.lgbt/@thalber">fediv (tech.lgbt)</a>
-- <a href="https://steamcommunity.com/id/thabaa--/">Steam</a>
-- Discord: 343084696718278657
+
+portfolio ish page with most links can be found <a href="https://thalber.github.io/self/">here</a>
+
 
 <!--
 **thalber/thalber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
